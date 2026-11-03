@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>MouseStudio</AssemblyName>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Product>Mouse Studio</Product>
+    <Description>Five independent mouse profiles and reusable automation presets for Windows.</Description>
+    <Authors>glasscola</Authors>
+    <RepositoryUrl>https://github.com/glasscola/MouseStudio</RepositoryUrl>
+    <PublishTrimmed>false</PublishTrimmed>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+artifacts/
+*.user
+*.suo
+*.pdb
+*.tmp
+프리셋.json
+매크로 보관함.json
+verification.json
+*.zip
